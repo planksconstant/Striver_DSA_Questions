@@ -1,0 +1,16 @@
+a
+*.exe
+a.out
+*.out
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+.DS_Store
+*.log
+*.dSYM/
+.vscode
+
